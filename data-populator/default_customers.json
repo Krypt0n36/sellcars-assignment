@@ -69,7 +69,7 @@
                 "company_name": "",
                 "country": "Australia",
                 "zip": "3000",
-                "fax": "",
+                "fax": "564654898",
                 "phone": "123456789",
                 "street": "Oak St",
                 "email": "emily.j@example.com",
@@ -92,10 +92,10 @@
         ],
         "addresses": [
             {
-                "company_name": "",
+                "company_name": "Lidl",
                 "country": "United Kingdom",
                 "zip": "AB12 3CD",
-                "fax": "",
+                "fax": "546845454",
                 "phone": "9876543210",
                 "street": "Pine St",
                 "email": "mbrown@example.com",
@@ -170,10 +170,10 @@
         ],
         "addresses": [
             {
-                "company_name": "",
+                "company_name": "Penny",
                 "country": "Spain",
                 "zip": "28001",
-                "fax": "",
+                "fax": "654848484",
                 "phone": "9998887777",
                 "street": "Cedar St",
                 "email": "emma.g@example.com",
