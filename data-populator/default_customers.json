@@ -1,0 +1,210 @@
+[
+    {
+        "intnr": "C-00002",
+        "type": "COMPANY",
+        "contact_persons": [
+            {
+                "first_name": "Samantha",
+                "second_name": "Smith",
+                "email": "smith@example.com",
+                "mobile_number": "1234567890",
+                "birth_date": "15.09.1985",
+                "address": "123 Main St"
+            }
+        ],
+        "addresses": [
+            {
+                "company_name": "TechSolutions",
+                "country": "United States",
+                "zip": "12345",
+                "fax": "54321",
+                "phone": "9876543210",
+                "street": "Main St",
+                "email": "info@techsolutions.com",
+                "city": "New York"
+            }
+        ]
+    },
+    {
+        "intnr": "C-00003",
+        "type": "DEALER",
+        "contact_persons": [
+            {
+                "first_name": "John",
+                "second_name": "Doe",
+                "email": "johndoe@example.com",
+                "mobile_number": "9876543210",
+                "birth_date": "10.02.1978",
+                "address": "456 Elm St"
+            }
+        ],
+        "addresses": [
+            {
+                "company_name": "Auto World",
+                "country": "Canada",
+                "zip": "A1B2C3",
+                "fax": "987654",
+                "phone": "1234567890",
+                "street": "Elm St",
+                "email": "info@autoworld.ca",
+                "city": "Toronto"
+            }
+        ]
+    },
+    {
+        "intnr": "C-00004",
+        "type": "PRIVATE",
+        "contact_persons": [
+            {
+                "first_name": "Emily",
+                "second_name": "Johnson",
+                "email": "emily.j@example.com",
+                "mobile_number": "5554443333",
+                "birth_date": "20.07.1990",
+                "address": "789 Oak St"
+            }
+        ],
+        "addresses": [
+            {
+                "company_name": "",
+                "country": "Australia",
+                "zip": "3000",
+                "fax": "",
+                "phone": "123456789",
+                "street": "Oak St",
+                "email": "emily.j@example.com",
+                "city": "Melbourne"
+            }
+        ]
+    },
+    {
+        "intnr": "C-00005",
+        "type": "PRIVATE",
+        "contact_persons": [
+            {
+                "first_name": "Michael",
+                "second_name": "Brown",
+                "email": "mbrown@example.com",
+                "mobile_number": "9876543210",
+                "birth_date": "03.12.1982",
+                "address": "321 Pine St"
+            }
+        ],
+        "addresses": [
+            {
+                "company_name": "",
+                "country": "United Kingdom",
+                "zip": "AB12 3CD",
+                "fax": "",
+                "phone": "9876543210",
+                "street": "Pine St",
+                "email": "mbrown@example.com",
+                "city": "London"
+            }
+        ]
+    },
+    {
+        "intnr": "C-00006",
+        "type": "COMPANY",
+        "contact_persons": [
+            {
+                "first_name": "David",
+                "second_name": "Lee",
+                "email": "david.lee@example.com",
+                "mobile_number": "1234567890",
+                "birth_date": "25.05.1975",
+                "address": "456 Maple St"
+            }
+        ],
+        "addresses": [
+            {
+                "company_name": "GlobalTech",
+                "country": "France",
+                "zip": "75001",
+                "fax": "987654",
+                "phone": "1234567890",
+                "street": "Maple St",
+                "email": "info@globaltech.fr",
+                "city": "Paris"
+            }
+        ]
+    },
+    {
+        "intnr": "C-00007",
+        "type": "DEALER",
+        "contact_persons": [
+            {
+                "first_name": "Sophia",
+                "second_name": "Chen",
+                "email": "sophia.chen@example.com",
+                "mobile_number": "5556667777",
+                "birth_date": "12.08.1995",
+                "address": "789 Birch St"
+            }
+        ],
+        "addresses": [
+            {
+                "company_name": "Car Emporium",
+                "country": "Germany",
+                "zip": "12345",
+                "fax": "555666",
+                "phone": "7778889999",
+                "street": "Birch St",
+                "email": "sales@caremporium.de",
+                "city": "Berlin"
+            }
+        ]
+    },
+    {
+        "intnr": "C-00008",
+        "type": "PRIVATE",
+        "contact_persons": [
+            {
+                "first_name": "Emma",
+                "second_name": "Garcia",
+                "email": "emma.g@example.com",
+                "mobile_number": "9998887777",
+                "birth_date": "18.11.1989",
+                "address": "123 Cedar St"
+            }
+        ],
+        "addresses": [
+            {
+                "company_name": "",
+                "country": "Spain",
+                "zip": "28001",
+                "fax": "",
+                "phone": "9998887777",
+                "street": "Cedar St",
+                "email": "emma.g@example.com",
+                "city": "Madrid"
+            }
+        ]
+    },
+    {
+        "intnr": "C-00009",
+        "type": "COMPANY",
+        "contact_persons": [
+            {
+                "first_name": "Daniel",
+                "second_name": "Martinez",
+                "email": "daniel.m@example.com",
+                "mobile_number": "7778889999",
+                "birth_date": "07.04.1970",
+                "address": "456 Pine St"
+            }
+        ],
+        "addresses": [
+            {
+                "company_name": "TechGenius",
+                "country": "United States",
+                "zip": "54321",
+                "fax": "999888",
+                "phone": "7778889999",
+                "street": "Pine St",
+                "email": "info@techgenius.com",
+                "city": "San Francisco"
+            }
+        ]
+    }
+]

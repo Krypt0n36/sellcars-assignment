@@ -1,0 +1,18 @@
+[
+    {
+        "first_name": "Max",
+        "last_name": "Mustremann",
+        "password_hash": "27e3f08d646499df06ef0c07af637561",
+        "email": "maxmst@gmail.com",
+        "created_at":"2024-01-01T14:10:01.066Z",
+        "updated_at": "2024-01-01T14:10:01.066Z"
+    },
+    {
+        "first_name": "Hassan",
+        "last_name": "Belani",
+        "password_hash": "27e3f08d646499df06ef0c07af637561",
+        "email": "belani@mail.com",
+        "created_at":"2024-01-01T14:10:01.066Z",
+        "updated_at":"2024-01-01T14:10:01.066Z"
+    }
+]
