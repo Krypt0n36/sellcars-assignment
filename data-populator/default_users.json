@@ -2,7 +2,7 @@
     {
         "first_name": "Ralf",
         "last_name": "Mader",
-        "password_hash": "81ec52b0572274ba07c67138aa",
+        "password_hash": "81ec52b0572274ba07c67138aabebc3d",
         "email": "ralf@audaris.com",
         "created_at":"2024-01-01T14:10:01.066Z",
         "updated_at": "2024-01-01T14:10:01.066Z"

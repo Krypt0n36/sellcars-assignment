@@ -44,7 +44,9 @@ const authenticateJWT = expressJwt.expressjwt({
 });
 
 
-
+app.get('/login', (req, res)=>{
+    res.sendFile(path.join(__dirname, 'public', 'index.html'));
+})
 
 app.post('/upload_customers', upload.single('file'), (req, res) => {
     const {token} = req.cookies;
